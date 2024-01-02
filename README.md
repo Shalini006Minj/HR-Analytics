@@ -16,13 +16,13 @@ In the Gender and Position column, the values were updated to a more understanda
 
 The transformation involved the following steps:
 
-a)	Male was replaced with M
+ a)	Male was replaced with M
 
-b)	Female was replaced with F
+ b)	Female was replaced with F
 
-c)	‘DataScientist’ was replaced with ‘Data Scientist’
+ c)	‘DataScientist’ was replaced with ‘Data Scientist’
 
-d)	‘Marketinganalyst’ was replaced with 'Marketing Analyst’
+ d)	‘Marketinganalyst’ was replaced with 'Marketing Analyst’
 
 A new column was created as ‘AgeGroup’ where age was categorized under different groups using case statements. 
 
@@ -30,21 +30,21 @@ This helped to create conditional logic and to perform different actions or calc
 
 The age brackets include the following conditions:
 
-a)	Less than or equal to 30 years
+ a)	Less than or equal to 30 years
 
-b)	Greater than 30 years
+ b)	Greater than 30 years
 
 In the same manner, the salary was also categorized and a new column was created as ‘SalaryBucket’, which includes the following conditions:
 
-a)	90K-100K
+ a)	90K-100K
 
-b)	80K-90K
+ b)	80K-90K
 
-c)	70K-80K
+ c)	70K-80K
 
-d)	60K-70K
+ d)	60K-70K
 
-e)	50K-60K
+ e)	50K-60K
 
 ## Analysis and Insights
 
